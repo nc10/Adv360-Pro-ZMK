@@ -75,7 +75,7 @@
     // rgb_ug RGB_MEFS_CMD 5: Battery level
     // rgb_ug RGB_TOG: Turning indicator LEDs on and off
     // BL_INC: backlight increase
-    // BL_DEC: backlight decreas
+    // BL_DEC: backlight decreas 
     // BL_TOG: turns backlight on and off 
 
     keypad_layer {
