@@ -42,7 +42,6 @@
 
     base_layer {
       bindings = <
-                                               // //////																    \\\\\\
         &kp ESC   &kp N1    &kp N2     &kp N3     &kp N4      &kp N5      &tog KP                                                                                     &mo FUNC  &kp N6      &kp N7      &kp N8     &kp N9     &kp N0   &kp EQUAL
         &kp TAB   &kp Q     &kp W      &kp E      &kp R       &kp T       &kp GRAVE                                                                                   &kp ESC   &kp Y       &kp U       &kp I      &kp O      &kp P    &kp MINUS
         &kp LSHFT &kp A     &hm LGUI S &hm LALT D &hm LCTRL F &hm LSHFT G &kp TAB                          &kp LCTRL    &kp LALT &kp LGUI  &kp RCTRL                  &kp TAB   &hm RSHFT H &hm RCTRL J &hm RALT K &hm RGUI L &kp SEMI &kp RSHFT
@@ -53,7 +52,6 @@
 
     symb_layer {
       bindings = <
-                                       // //////									          \\\\\\
         &trans  &kp F1   &kp F2   &kp F3   &kp F4   &kp F5    &kp F6                                             &kp F7 &kp F8    &kp F9    &kp F10   &kp F11   &kp F12   &none
         &none   &kp EXCL &kp AT   &kp HASH &kp DLLR &kp PRCNT &trans                                             &trans &kp CARET &kp AMPS  &kp ASTRK &kp GRAVE &kp TILDE &none
         &none   &kp DQT  &kp LBRC &kp LBKT &kp LPAR &kp LT    &trans          &none   &none &none &none          &trans &kp FSLH  &kp MINUS &kp EQUAL &kp BSLH  &kp SEMI  &none
@@ -64,7 +62,6 @@
 
     func_layer {
       bindings = <
-                                                    // //////////							          					  \\\\\\
         &trans  &bt BT_SEL 0 &bt BT_SEL 1 &bt BT_SEL 2 &bt BT_SEL 3 &bt BT_SEL 4   &bt BT_CLR                                           &rgb_ug RGB_TOG        &none      &none      &none      &none     &none     &none
         &none   &none        &none        &kp C_MUTE   &kp C_NEXT   &none          &bootloader                                          &bootloader            &bl BL_TOG &bl BL_INC &bl BL_DEC &none     &none     &none
         &none   &none        &kp INS      &kp C_VOL_UP &kp C_PP     &none          &macro_ver           &none  &none &none &none        &rgb_ug RGB_MEFS_CMD 5 &kp LEFT   &kp DOWN   &kp UP     &kp RIGHT &none     &none
