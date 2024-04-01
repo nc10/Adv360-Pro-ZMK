@@ -65,7 +65,7 @@
         &trans  &bt BT_SEL 0 &bt BT_SEL 1 &bt BT_SEL 2 &bt BT_SEL 3 &bt BT_SEL 4   &bt BT_CLR                                         &rgb_ug RGB_TOG        &none      &none      &none      &none     &none     &none
         &none   &none        &none        &kp C_MUTE   &kp C_NEXT   &none          &bootloader                                        &bootloader            &bl BL_TOG &bl BL_INC &bl BL_DEC &none     &none     &none
         &none   &none        &kp INS      &kp C_VOL_UP &kp C_PP     &none          &macro_ver         &none  &none &none &none        &rgb_ug RGB_MEFS_CMD 5 &kp LEFT   &kp DOWN   &kp UP     &kp RIGHT &none     &none
-        &none   &none        &kp PSCR     &kp C_VOL_DN &kp C_PREV   &none                                    &none &none                                     &kp HOME   &kp PG_DN  &kp PG_UP  &kp END   &none     &none
+        &none   &none        &kp PSCRN    &kp C_VOL_DN &kp C_PREV   &none                                    &none &none                                     &kp HOME   &kp PG_DN  &kp PG_UP  &kp END   &none     &none
         &none   &none        &none        &none        &none                                   &none  &trans &none &none &trans &none                                   &none      &none      &none     &none     &none
       >;
     };
