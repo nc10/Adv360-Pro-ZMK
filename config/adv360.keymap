@@ -5,9 +5,11 @@
 #include <dt-bindings/zmk/backlight.h>
 
 #define BASE 0
-#define SYMB 1
-#define FUNC 2
-#define KP 3
+#define SYMB_L 1
+#define SYMB_R 2
+#define FUNC_L 3
+#define FUNC_R 4
+#define KP 5
 
 &lt {
     tapping-term-ms = <300>;
